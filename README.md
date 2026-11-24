@@ -1,4 +1,6 @@
 # 🛡️ SubscriptionGuard
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+
 
 ### 잊고 있던 구독료, 결제 전에 발견하세요.
 
@@ -11,6 +13,7 @@
 </div>
 
 ---
+## 👥 팀원 소개
 
 ## 💡 프로젝트 소개
 구독 서비스를 한 번 가입한 뒤 이용량이 줄어들었는데도 자동결제를 계속하거나, 
