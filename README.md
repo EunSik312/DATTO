@@ -1,5 +1,4 @@
-# 🛡️ SubscriptionGuard
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+# 🛡️ **SubscriptionGuard**
 
 
 ### 잊고 있던 구독료, 결제 전에 발견하세요.
