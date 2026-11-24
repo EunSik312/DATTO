@@ -1,5 +1,3 @@
-## 구독 서비스 관리 밎 비용 최적화 앱
-
 <div align="center">
 
 # 🛡️ SubscriptionGuard
