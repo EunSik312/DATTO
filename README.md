@@ -1,5 +1,3 @@
-<div align="center">
-
 # 🛡️ SubscriptionGuard
 
 ### 잊고 있던 구독료, 결제 전에 발견하세요.
